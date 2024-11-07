@@ -32,22 +32,22 @@ rect.headerRect:hover {
 .wave {
   animation: wave 3s linear;
   animation-iteration-count:infinite;
-  fill: #9250FD;  
+  fill: #13a193;  
 }
 
 .wave:hover {
-  fill: #D277E6;
+  fill: #26B0A4;
 }
 
 .drop:hover {
-  fill: #FD8433;
+  fill: #13a193;
 }
 
 .drop {
-  fill: #D277E6;
+  fill:  #25e8d5;
   xfill: #99553355;
   animation: drop 8.2s linear infinite normal;
-  stroke: #D277E6;
+  stroke: #29CCBC;
   stroke-width: 0.5;
   transform: translateY(25px) ;
   transform-box: fill-box;
@@ -179,14 +179,14 @@ g.typingUnderline rect {
 </path>
 
 <text font-family="Courier New" font-size=".22em" fill="white"
-      font-weight="bold" letter-spacing="1">
+      font-weight="bold" letter-spacing="1" dy="0.4em">
   <textPath xlink:href="#nameTyping" >
-      Romain CUTTÉ
+      Tiphaine LAY
   </textPath>
 </text>
 
 <g class="typingUnderline">
-  <rect fill="#FFFFFF" x="75" y="20.5" width="2.5" height="0.4" xlink:href="#underlineTyping">
+  <rect fill="#FFFFFF" x="75" y="18.75" width="2.5" height="0.4" xlink:href="#underlineTyping">
       <animate attributeName="visible" from="hidden" to="visible" dur="1s" fill="freeze"/>
   </rect>
 </g>
@@ -196,10 +196,10 @@ g.typingUnderline rect {
            dur="5.8s" begin="0s" fill="freeze"/>
 </path>
 
-<text x="64" font-family="Helvetica" font-size=".12em" fill="white"
-     text-anchor="end" alignment-baseline="hanging" font-style="italic" > 
+<text x="75" font-family="Helvetica" font-size=".12em" fill="white"
+     text-anchor="end" alignment-baseline="hanging" font-style="italic" dy="0.9em"> 
   <textPath xlink:href="#descriptionTyping" >
-      Junior Software Engineer
+      Aspiring Creative Developer at 42
   </textPath>
 </text>
 
