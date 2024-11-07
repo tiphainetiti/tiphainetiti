@@ -179,14 +179,14 @@ g.typingUnderline rect {
 </path>
 
 <text font-family="Courier New" font-size=".22em" fill="white"
-      font-weight="bold" letter-spacing="1" dy="0.4em">
+      font-weight="bold" letter-spacing="1" dy="0.25em">
   <textPath xlink:href="#nameTyping" >
       Tiphaine LAY
   </textPath>
 </text>
 
 <g class="typingUnderline">
-  <rect fill="#FFFFFF" x="75" y="18.75" width="2.5" height="0.4" xlink:href="#underlineTyping">
+  <rect fill="#FFFFFF" x="75" y="19" width="2.5" height="0.4" xlink:href="#underlineTyping">
       <animate attributeName="visible" from="hidden" to="visible" dur="1s" fill="freeze"/>
   </rect>
 </g>
@@ -197,7 +197,7 @@ g.typingUnderline rect {
 </path>
 
 <text x="75" font-family="Helvetica" font-size=".12em" fill="white"
-     text-anchor="end" alignment-baseline="hanging" font-style="italic" dy="0.9em"> 
+     text-anchor="end" alignment-baseline="hanging" font-style="italic" dy="0.5em"> 
   <textPath xlink:href="#descriptionTyping" >
       Aspiring Creative Developer at 42
   </textPath>
