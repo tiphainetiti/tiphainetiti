@@ -1,5 +1,11 @@
-## Hi there 👋
+<div align="center">
+  <div align="center">
+      <!-- <h1>
+          <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=FE9453&center=true&vCenter=true&width=435&lines=Hey..+I'm+Romain;Don't+hesitate..;..to+reach+me+!" alt="Typing SVG"/>
+      </h1> -->
+      <img src="./Media/header.svg"></img>
 
+</div>
 <!--
 **tiphainetiti/tiphainetiti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
