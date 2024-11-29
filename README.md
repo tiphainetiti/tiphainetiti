@@ -1,6 +1,10 @@
 <div align="center">
   <img src="./Media/header.svg"></img>
 </div>
+  <div align="center">
+      <a href="https://www.linkedin.com/in/tiphaine-lay/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </div>
 
 - 🔎 I'm currently looking for an **apprenticeship in IT development**
 - 🌱 I’m currently learning **Python, JavaScript**
