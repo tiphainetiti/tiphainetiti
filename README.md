@@ -8,7 +8,7 @@
 
 - 🔎 I'm currently looking for an **apprenticeship in IT development**
 - 🌱 I’m currently learning **Python, JavaScript**
-- 💻 Used Language: C, Bash
+- 💻 Used Language: **C, Bash**
 - 📫 How to reach me: **tiph.lay@orange.fr**
 
 ### School Projects
