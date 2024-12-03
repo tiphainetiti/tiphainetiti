@@ -7,7 +7,7 @@
   </div>
 
 - 🔎 I'm currently looking for an **apprenticeship in IT development**
-- 🌱 I’m currently learning **Python, JavaScript**
+- 🌱 I’m currently learning **Python, JavaScript, HTML/CSS**
 - 💻 Used Language: **C, Bash**
 - 📫 How to reach me: **tiph.lay@orange.fr**
 
