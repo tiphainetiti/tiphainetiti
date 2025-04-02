@@ -18,6 +18,7 @@
   <a href="https://github.com/tiphainetiti/push_swap">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/push_swape.png)</a>
   <a href="https://github.com/tiphainetiti/pipex">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/pipexe.png)</a>
   <a href="https://github.com/tiphainetiti/so_long">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/so_longn.png)</a>
+  <a href="https://github.com/tiphainetiti/philosophers">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/philosopherse.png)</a>
 </div>
 
 
@@ -41,7 +42,6 @@ Pour les icones projets :
 <a href="https://github.com/tiphainetiti/42-tc-get_next_line">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/get_next_linee.png)</a>
 <a href="https://github.com/tiphainetiti/42-tc-ft_printf">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_printfe.png)</a>
 <a href="https://github.com/rabouzia/42-tc-Born2beroot">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/born2beroote.png)</a>
-<a href="https://github.com/rabouzia/42-tc-philosophers">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/philosopherse.png)</a>
 <a href="https://github.com/rabouzia/minihell">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minishelle.png)</a>
 <a href="https://github.com/mcombeau/net_practice">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/netpracticee.png)</a>
 <a href="https://github.com/rabouzia/cub3D">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/cub3de.png)</a>
