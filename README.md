@@ -19,8 +19,9 @@
   <a href="https://github.com/tiphainetiti/pipex">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/pipexe.png)</a>
   <a href="https://github.com/tiphainetiti/so_long">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/so_longn.png)</a>
   <a href="https://github.com/tiphainetiti/philosophers">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/philosopherse.png)</a>
+  <a href="https://github.com/tiphainetiti/mignonshell">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minishelle.png)</a>
+  
 </div>
-<a href="https://github.com/tiphainetiti/mignonshell">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minishelle.png)</a>
 
 
 <!--
