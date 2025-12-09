@@ -6,7 +6,6 @@
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </div>
 
-- 🔎 I'm currently looking for an **internship in IT development**
 - 🌱 I’m currently learning **Python, JavaScript, HTML/CSS**
 - 💻 Used Language: **C, Bash**
 - 📫 How to reach me: **tiph.lay@orange.fr**
