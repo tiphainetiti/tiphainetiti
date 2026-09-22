@@ -7,7 +7,7 @@
   </div>
 
 - 🌱 I’m currently learning **Python, JavaScript, HTML/CSS**
-- 💻 Used Language: **C, Bash**
+- 💻 Used Language: **C, C++, Bash**
 - 📫 How to reach me: **tiph.lay@orange.fr**
 
 ### School Projects
@@ -19,6 +19,7 @@
   <a href="https://github.com/tiphainetiti/so_long">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/so_longn.png)</a>
   <a href="https://github.com/tiphainetiti/philosophers">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/philosopherse.png)</a>
   <a href="https://github.com/tiphainetiti/mignonshell">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minishelle.png)</a>
+  <a href="https://github.com/tiphainetiti/inception">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/inceptione.png)</a>
   
 </div>
 
@@ -47,7 +48,6 @@ Pour les icones projets :
 <a href="https://github.com/rabouzia/cub3D">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/cub3de.png)</a>
 <a href="https://github.com/rabouzia/Piscine_CPP">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/cppe.png)</a>
 <a href="https://github.com/rabouzia/ft_irc">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_irce.png)</a>
-<a href="https://github.com/rabouzia/inception">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/inceptione.png)</a>
 <a href="https://github.com/rabouzia/webserv">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/webserve.png)</a>
 
 Pour un texte qui se tape tout seul :
